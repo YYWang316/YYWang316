@@ -1,6 +1,6 @@
 <div align="left">
 
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YYBlockchain)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YuyaoWang)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuyao-wang-372714234/)
 [![Website](https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yuyaowang.xyz)
 [![Email](https://img.shields.io/badge/yw8314%40nyu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yw8314@nyu.edu)
@@ -17,7 +17,6 @@
 - 🏛️ **Institutional crypto research** — market structure, derivatives, ETF flows
 - 🏗️ **Web3 engineering @ Sprout.xyz** — DeFi protocol-adjacent infrastructure
 - 🎓 **NYU Blockchain Lab** — running weekly programming with Galaxy Digital, Grayscale, OKX, BNB Chain, and others
-- ✍️ **YYFoundry** — bilingual blockchain education brand · [@yyfoundry](https://x.com/yyfoundry)
 
 ---
 
@@ -36,20 +35,15 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YYWang316&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YYWang316&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
----
-
 ### 📚 Recent work
 
 - 🌐 **[yuyaowang.xyz](https://yuyaowang.xyz)** — personal site, institutional-tone Next.js
 - 📦 **[personal-site-template](https://github.com/YYWang316/personal-site-template)** — open-source template based on the site above
 - 🎤 **NYU Blockchain Lab events** — 30+ sessions a year, 900+ subscribers
+
+---
+
+![snake gif](https://github.com/YYWang316/YYWang316/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
